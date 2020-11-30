@@ -27,6 +27,6 @@ This is the REST API which performs CRUD operations on users and items and also 
 <img src="https://i.ibb.co/5cbD1SQ/Screenshot-from-2020-11-30-11-14-42.png" />
 
 ### Cart
-1. Add cart item    : /user/<u_id>/cart/add/<item_id>
-2. Remove cart item : /user/<uid>/cart/delete/<item_id>
-3. Discard cart     : /user/<uid>/cart/delete
+1. Add cart item    : /user/<user_id>/cart/add/<item_id>
+2. Remove cart item : /user/<user_id>/cart/delete/<item_id>
+3. Discard cart     : /user/<user_id>/cart/delete
